@@ -1,0 +1,4 @@
+monday 10:00 am
+monday 12:00 pm
+monday 2:30 pm
+tuesday 8:30 am

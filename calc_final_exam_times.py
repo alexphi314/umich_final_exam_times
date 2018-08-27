@@ -5,6 +5,7 @@ import subprocess
 import re
 import datetime as dt
 import requests
+import argparse
 
 def get_exam_times(year, term):
     """
@@ -107,35 +108,25 @@ def get_exam_times(year, term):
 
     return times
 
-## Get Term from user
-inpt = input('Please input the Term in format <Season> <YYYY>: ')
-term, year = inpt.split()
+## Define Argparser
+parser = argparse.ArgumentParser()
+parser.add_argument('--year', '-y', help="Term year. Assumes 2018 if not provided.", default=2018, type=int)
+parser.add_argument('--term', '-t', help="Term season, e.g. Fall")
+parser.add_argument('--classes', '-c', help='File containing list of class start times', default='classes.txt')
+args = vars(parser.parse_args())
+
+## Read input arguments
+term = args['term']
+year = args['year']
+
+with open(args['classes'], 'r') as f:
+    classes = f.readlines()
 
 data = get_exam_times(year, term)
 
-## Get class times from user
-inpt = True
-print("""For each class in your schedule, please enter the first day and time it meets during the week.
-For example, a class that meets at 8:30 am on Monday, Wednesday, Friday would be 'Monday 8:30 am'.
-When you are done entering classes, type 'done'""")
-frmat = re.compile('(?P<day>[MT][ou][ne]s?day) (?P<time>\d\d?:\d\d [ap]m)',re.IGNORECASE)
-i = 1
-classes = []
-while inpt:
-    clss = input('Class {}: '.format(i))
-
-    if 'done' in clss:
-        break
-
-    if not frmat.match(clss):
-        print('Input {} is not in the correct format. Please use <Monday|Tuesday> <time> <am|pm>.'.format(clss))
-        continue
-
-    i += 1
-    classes.append(clss)
-
 ## Output final exam times based on registrar tables
 print('\nFinal Exam Times:')
+frmat = re.compile('(?P<day>[MT][ou][ne]s?day) (?P<time>\d\d?:\d\d [ap]m)',re.IGNORECASE)
 for indx, clss in enumerate(classes):
     day = frmat.search(clss).group('day')
     time = frmat.search(clss).group('time')
