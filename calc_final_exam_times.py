@@ -110,8 +110,8 @@ def get_exam_times(year, term):
 
 ## Define Argparser
 parser = argparse.ArgumentParser()
+parser.add_argument('--term', '-t', help="Term season, e.g. Fall", required=True)
 parser.add_argument('--year', '-y', help="Term year. Assumes 2018 if not provided.", default=2018, type=int)
-parser.add_argument('--term', '-t', help="Term season, e.g. Fall")
 parser.add_argument('--classes', '-c', help='File containing list of class start times', default='classes.txt')
 args = vars(parser.parse_args())
 
