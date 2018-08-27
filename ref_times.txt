@@ -1,45 +1,45 @@
 If the first lecture, recitation or seminar period of the week is on Monday:
 
 Lecture Time	Exam Date	Exam Time
-7:30 am	Thursday, December 13	10:30 am - 12:30 pm
-8:00 am Thursday, December 20	8:00 am - 10:00 am
-8:30 am	Thursday, December 20	8:00 am - 10:00 am
-9:00 am	Tuesday, December 18	4:00 pm - 6:00 pm
-9:30 am	Tuesday, December 18	4:00 pm - 6:00 pm
-10:00 am	Friday, December 14	4:00 pm - 6:00 pm
-10:30 am	Friday, December 14	4:00 pm - 6:00 pm
-11:00 am	Tuesday, December 18	10:30 am - 12:30 pm
-11:30 am	Tuesday, December 18	10:30 am - 12:30 pm
-12:00 pm	Tuesday, December 18	1:30 pm - 3:30 pm
-12:30 pm	Tuesday, December 18	1:30 pm - 3:30 pm
-1:00 pm	Thursday, December 13	4:00 pm - 6:00 pm
-1:30 pm	Thursday, December 13	4:00 pm - 6:00 pm
-2:00 pm	Wednesday, December 19	10:30 am - 12:30 pm
-2:30 pm	Wednesday, December 19	10:30 am - 12:30 pm
-3:00 pm	Wednesday, December 19	4:00 pm - 6:00 pm
-3:30 pm	Wednesday, December 19	4:00 pm - 6:00 pm
-4:00 pm	Monday, December 17	10:30 am - 12:30 pm
-4:30 pm	Monday, December 17	10:30 am - 12:30 pm
+7:30 am!Thursday, December 13!10:30 am - 12:30 pm
+8:00 am!Thursday, December 20!8:00 am - 10:00 am
+8:30 am!Thursday, December 20!8:00 am - 10:00 am
+9:00 am!Tuesday, December 18!4:00 pm - 6:00 pm
+9:30 am!Tuesday, December 18!4:00 pm - 6:00 pm
+10:00 am!Friday, December 14!4:00 pm - 6:00 pm
+10:30 am!Friday, December 14!4:00 pm - 6:00 pm
+11:00 am!Tuesday, December 18!10:30 am - 12:30 pm
+11:30 am!Tuesday, December 18!10:30 am - 12:30 pm
+12:00 pm!Tuesday, December 18!1:30 pm - 3:30 pm
+12:30 pm!Tuesday, December 18!1:30 pm - 3:30 pm
+1:00 pm!Thursday, December 13!4:00 pm - 6:00 pm
+1:30 pm!Thursday, December 13!4:00 pm - 6:00 pm
+2:00 pm!Wednesday, December 19!10:30 am - 12:30 pm
+2:30 pm!Wednesday, December 19!10:30 am - 12:30 pm
+3:00 pm!Wednesday, December 19!4:00 pm - 6:00 pm
+3:30 pm!Wednesday, December 19!4:00 pm - 6:00 pm
+4:00 pm!Monday, December 17!10:30 am - 12:30 pm
+4:30 pm!Monday, December 17!10:30 am - 12:30 pm
 
 If the first lecture, recitation or seminar period of the week is on Tuesday:
 
 Lecture Time	Exam Date	Exam Time
-7:30 am	Friday, December 14	10:30 am - 12:30 pm
-8:00 am	Tuesday, December 18	8:00 am - 10:00 am
-8:30 am	Tuesday, December 18	8:00 am - 10:00 am
-9:00 am	Friday, December 14	1:30 pm - 3:30 pm
-9:30 am	Friday, December 14	1:30 pm - 3:30 pm
-10:00 am	Monday, December 17	1:30 pm - 3:30 pm
-10:30 am	Monday, December 17	1:30 pm - 3:30 pm
-11:00 am	Thursday, December 20	10:30 am - 12:30 pm
-11:30 am	Thursday, December 20	10:30 am - 12:30 pm
-12:00 pm	Monday, December 17	4:00 pm - 6:00 pm
-12:30 pm	Monday, December 17	4:00 pm - 6:00 pm
-1:00 pm	Wednesday, December 19	1:30 pm - 3:30 pm
-1:30 pm	Wednesday, December 19	1:30 pm - 3:30 pm
-2:00 pm	Thursday, December 20	1:30 pm - 3:30 pm
-2:30 pm	Thursday, December 20	1:30 pm - 3:30 pm
-3:00 pm	Thursday, December 13	1:30 pm - 3:30 pm
-3:30 pm	Thursday, December 13	1:30 pm - 3:30 pm
-4:00 pm	Wednesday, December 19	8:00 am - 10:00 am
-4:30 pm	Wednesday, December 19	8:00 am - 10:00 am
+7:30 am!Friday, December 14!10:30 am - 12:30 pm
+8:00 am!Tuesday, December 18!8:00 am - 10:00 am
+8:30 am!Tuesday, December 18!8:00 am - 10:00 am
+9:00 am!Friday, December 14!1:30 pm - 3:30 pm
+9:30 am!Friday, December 14!1:30 pm - 3:30 pm
+10:00 am!Monday, December 17!1:30 pm - 3:30 pm
+10:30 am!Monday, December 17!1:30 pm - 3:30 pm
+11:00 am!Thursday, December 20!10:30 am - 12:30 pm
+11:30 am!Thursday, December 20!10:30 am - 12:30 pm
+12:00 pm!Monday, December 17!4:00 pm - 6:00 pm
+12:30 pm!Monday, December 17!4:00 pm - 6:00 pm
+1:00 pm!Wednesday, December 19!1:30 pm - 3:30 pm
+1:30 pm!Wednesday, December 19!1:30 pm - 3:30 pm
+2:00 pm!Thursday, December 20!1:30 pm - 3:30 pm
+2:30 pm!Thursday, December 20!1:30 pm - 3:30 pm
+3:00 pm!Thursday, December 13!1:30 pm - 3:30 pm
+3:30 pm!Thursday, December 13!1:30 pm - 3:30 pm
+4:00 pm!Wednesday, December 19!8:00 am - 10:00 am
+4:30 pm!Wednesday, December 19!8:00 am - 10:00 am
